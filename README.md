@@ -1,6 +1,6 @@
 # MicroPython on ESP32 with VScode
 
-[¼òÌåÖÐÎÄ](/README_zh.md)
+[ç®€ä½“ä¸­æ–‡](/README_zh.md)
 
 ## Install MicroPython on ESP32
 
