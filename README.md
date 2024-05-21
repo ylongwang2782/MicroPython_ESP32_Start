@@ -1,10 +1,15 @@
 # MicroPython on ESP32 with VScode
 
+[¼òÌåÖÐÎÄ](/README_zh.md)
+
 ## Install MicroPython on ESP32
 
 1. Install esptool.py
 
+Open command prompt or terminal and run the following command to install the esptool.py tool.
+```python
 pip install esptool
+```
 
 2. Connect ESP32 to PC and check COM port number
 
